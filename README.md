@@ -9,6 +9,6 @@ I am normally not this professional and I hate being professional but this is Gi
 If you have an issue don't be afraid to make an issue on the repo and let me know
 
 #### Discord stuff
-My username is `Jojo#7791` and you can find me on [Red - DiscordBot's server](discord.gg/red) or my [friend's server](discord.gg/JmCFyq7) and contact me there
+My username is `Jojo#7791` and you can find me on [Red - DiscordBot's server](https://discord.gg/red) or my [friend's server](https://discord.gg/JmCFyq7) and contact me there
 
 ## Thanks for reading this!
