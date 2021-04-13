@@ -1,3 +1,6 @@
+[![Jojo's Github Stats](https://github-readme-stats.vercel.app/api?username=Just-Jojo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just-Jojo)](https://github.com/anuraghazra/github-readme-stats)
+
 Hi there. I code stuff (normally in Python) and sometimes it works. I really like Discord bots for... some... reason, and I like to help other people with their coding questions/problems.
 
 Apparently, I understand a lot of stuff (which I guess is true) and I am sorta helpful for people.
